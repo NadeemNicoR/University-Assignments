@@ -1,4 +1,4 @@
-Implementation of Decision Tree using ID3 Algorithm:
+## Implementation of Decision Tree using ID3 Algorithm:
 
 ![Entropy_Formula](entropy.PNG) 
 #####  Where Pi is the proportion of class i (with C being all classes in the data set).
